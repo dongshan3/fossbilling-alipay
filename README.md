@@ -1,8 +1,8 @@
 # AliPay for FOSSBilling
 
-支付宝开放平台“电脑网站支付”适配器（RSA2），适用于 FOSSBilling。
+支付宝开放平台“电脑网站支付”适配器（RSA2），使用 Grok 编写，适用于 FOSSBilling。
 
-社区非官方扩展，与支付宝、FOSSBilling 官方无关。请先在测试环境验证再用于真实收款。使用 Grok 编写。
+社区非官方扩展，与支付宝、FOSSBilling 官方无关。请先在测试环境验证再用于真实收款。
 
 ## 实测说明
 
